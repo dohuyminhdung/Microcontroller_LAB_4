@@ -1,0 +1,8 @@
+global.c:9:6:setBuffer1_Default	4	static
+global.c:15:6:setBuffer1	16	static
+global.c:18:6:setBuffer2	4	static
+global.c:24:6:setTraffic1	16	static
+global.c:29:6:setTraffic2	16	static
+global.c:38:6:helpDisplaySeg	24	static
+global.c:47:6:displaySeg	32	static
+global.c:83:6:displaySegProcess	16	static

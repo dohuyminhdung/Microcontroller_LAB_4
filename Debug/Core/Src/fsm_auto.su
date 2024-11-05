@@ -1,0 +1,2 @@
+fsm_auto.c:4:6:trafficSetUp	8	static
+fsm_auto.c:11:6:fsm_autoRun	8	static

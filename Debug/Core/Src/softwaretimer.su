@@ -1,0 +1,8 @@
+softwaretimer.c:25:6:setFlagCD	16	static
+softwaretimer.c:28:6:setTimerCD	16	static
+softwaretimer.c:31:6:timerRunCD	4	static
+softwaretimer.c:37:5:isTimerFlagCD	4	static
+softwaretimer.c:47:6:setFlagSeg	16	static
+softwaretimer.c:50:6:setTimerSeg	16	static
+softwaretimer.c:53:6:timerRunSeg	4	static
+softwaretimer.c:59:5:isTimerFlagSeg	4	static

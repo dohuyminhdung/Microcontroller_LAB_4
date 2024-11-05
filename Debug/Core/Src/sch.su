@@ -1,0 +1,9 @@
+sch.c:7:6:sch_Init	8	static
+sch.c:18:6:schAddTask	24	static
+sch.c:31:6:schUpdate	4	static
+sch.c:37:6:schDispatchTask	16	static
+sch.c:53:6:schDelete	24	static
+sch.c:68:9:reheapUp	40	static
+sch.c:80:9:reheapDown	40	static
+sch.c:101:6:reSchProcess	8	static
+sch.c:111:9:isTrigger	4	static
